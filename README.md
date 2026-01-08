@@ -1,6 +1,6 @@
 # LZ77 Compression Algorithm
 
-This repository contains a C++ implementation of the LZ77 compression algorithm. The project was developed as part of the Coding and Data Compression (KOD) course at the Czech Technical University (CVUT) in Prague, in the context of studies at the Universitat Politècnica de Catalunya (UPC).
+This repository contains a C++ implementation of the LZ77 compression algorithm. The project was developed as part of the Data Compression (KOD) course at the Czech Technical University (CVUT) in Prague, in the context of studies at the Universitat Politècnica de Catalunya (UPC).
 
 The algorithm focuses on dictionary-based lossless data compression using a sliding window approach to identify and encode repeated patterns in a data stream.
 
